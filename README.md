@@ -26,15 +26,6 @@ Building at the intersection of **Autonomous Agents** and **Decentralized Financ
 
 ---
 
-### 📈 Engineering Metrics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhuangzhen17cs&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=333" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuangzhen17cs&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=333" height="165" />
-</p>
-
----
-
 ### 🤝 Strategic Networking & Leadership
 * **Founder/CTO** of stealth-mode AI projects.
 * **Technical Outreach Lead** at UMN Blockchain, bridging the gap between developers and decentralized protocols.
