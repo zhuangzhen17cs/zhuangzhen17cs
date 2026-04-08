@@ -1,6 +1,6 @@
-# ⚡️ Jensen Zhuang
+# ⚡️ Zhen Zhuang(Jensen)
 
-**Full-Stack Engineer | AI Solutions Architect | Web3 Growth & Infrastructure**
+**Gen-AI Engineer | AI Solutions Architect | Web3 Growth & Infrastructure**
 
 Building at the intersection of **Autonomous Agents** and **Decentralized Finance**. Focused on architecting scalable RAG pipelines and high-frequency arbitrage systems.
 
@@ -43,7 +43,7 @@ Building at the intersection of **Autonomous Agents** and **Decentralized Financ
 ---
 
 ### 🔗 Connect
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]https://www.linkedin.com/in/zhen-zhuang-243872310/
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zhen-zhuang-243872310/)
 [<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/Solo_Gopher)
 [<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />](你的个人网站链接)
 
